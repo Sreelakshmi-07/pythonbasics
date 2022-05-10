@@ -1,0 +1,5 @@
+anu,1001,cse
+amal,1002,cse
+anju,1003,cse
+amala,1004,ece
+ammu,1005,eee

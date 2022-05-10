@@ -1,0 +1,5 @@
+# packages
+# inbuilt ,user package
+# directories are packages,python files
+# set of modules(package)
+# from keyword directory,python file import fn or (to import all fn use *)
